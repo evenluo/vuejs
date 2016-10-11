@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="404px" height="311px" viewBox="0 0 404 311" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>Footprint</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footprint" transform="translate(1.000000, 1.000000)" stroke="#979797">
+            <path d="M201.639553,284.866963 C284.482266,284.866963 351.639553,349.976796 351.639553,267.134083 C351.639553,184.291371 284.482266,117.134083 201.639553,117.134083 C118.796841,117.134083 51.6395534,184.291371 51.6395534,267.134083 C51.6395534,349.976796 118.796841,284.866963 201.639553,284.866963 Z" id="Oval" fill="#FDBD41"></path>
+            <circle id="Oval-2" fill="#FFBE46" cx="40" cy="150" r="40"></circle>
+            <circle id="Oval-2" fill="#FFBE46" cx="362" cy="150" r="40"></circle>
+            <circle id="Oval-2" fill="#FFBE46" cx="131" cy="51" r="50"></circle>
+            <circle id="Oval-2" fill="#FFBE46" cx="271" cy="50" r="50"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300px" height="155px" viewBox="0 0 300 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>Dashboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="门户" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dashboard" transform="translate(0.000000, 2.000000)">
+            <path d="M150,151 C150,151 247.894981,151 300,151 C300,68.1572875 232.842712,1 150,1 C67.1572875,1 0,68.1572875 0,151 C56.8101025,151 150,151 150,151 Z" id="Oval-5" fill="#F7F7F7"></path>
+            <g id="Read" transform="translate(102.000000, 61.000000)" fill="#B8E986" fill-opacity="0.3">
+                <rect id="Rectangle-10" x="40" y="0" width="16" height="23"></rect>
+                <rect id="Rectangle-10" x="79" y="0" width="16" height="23"></rect>
+                <rect id="Rectangle-10" x="0" y="0" width="16" height="23"></rect>
+                <rect id="Rectangle-10" x="60" y="0" width="16" height="23"></rect>
+                <rect id="Rectangle-10" x="20" y="0" width="16" height="23"></rect>
+            </g>
+            <polygon id="Triangle" fill-opacity="0.3" fill="#D0021B" filter="url(#filter-1)" transform="translate(208.893248, 99.915064) rotate(56.000000) translate(-208.893248, -99.915064) " points="208.893248 29.9150635 211.393248 169.915064 206.393248 169.915064"></polygon>
+            <circle id="Oval-7" fill-opacity="0.4" fill="#D0021B" filter="url(#filter-2)" cx="145" cy="143" r="7"></circle>
+            <rect id="Rectangle-11" fill="#D8D8D8" filter="url(#filter-3)" transform="translate(258.303301, 56.303301) rotate(45.000000) translate(-258.303301, -56.303301) " x="257.303301" y="49.8033009" width="2" height="13"></rect>
+            <rect id="Rectangle-11" fill="#D8D8D8" filter="url(#filter-4)" transform="translate(47.303301, 53.303301) rotate(135.000000) translate(-47.303301, -53.303301) " x="46.3033009" y="46.8033009" width="2" height="13"></rect>
+            <rect id="Rectangle-11" fill="#D8D8D8" filter="url(#filter-5)" x="145.303301" y="0.803300859" width="2" height="13"></rect>
+            <path d="M28.1454034,92.9096068 C28.1454034,92.9096068 17.5655169,105.693003 14.2700005,137.718662 C24.8693871,137.694827 55.3350387,137.718664 55.3350387,137.718664" id="Path-2" stroke="#979797" filter="url(#filter-6)"></path>
+            <text id="X" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="185" y="76">X</tspan>
+            </text>
+            <text id="X" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="166" y="76">X</tspan>
+            </text>
+            <text id="X" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="146" y="76">X</tspan>
+            </text>
+            <text id="X" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="126" y="76">X </tspan>
+            </text>
+            <text id="X" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="106" y="76">X</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
