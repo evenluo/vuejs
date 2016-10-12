@@ -10,8 +10,8 @@ const routes = [
   { path: '/home', name: 'home', component: require('./components/Home') },
   { path: '/join', name: 'join', component: require('./components/Join') },
   { path: '/about', name: 'about', component: require('./components/About') },
-  { path: '*', component: require('./components/NotFound') },
-  { path: '/', redirect: '/home' }
+  { path: '/', redirect: '/home' },
+  { path: '*', component: require('./components/NotFound') }
 ]
 
 const router = new VueRouter({
