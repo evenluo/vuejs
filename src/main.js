@@ -10,6 +10,7 @@ const routes = [
   { path: '/home', name: 'home', component: require('./components/Home') },
   { path: '/join', name: 'join', component: require('./components/Join') },
   { path: '/about', name: 'about', component: require('./components/About') },
+  { path: '/party', name: 'party', component: require('./components/Party') },
   { path: '/', redirect: '/home' },
   { path: '*', component: require('./components/NotFound') }
 ]
